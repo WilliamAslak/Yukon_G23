@@ -3,4 +3,4 @@ project(Yukon_G23)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Yukon_G23 src/main.cpp)
+add_executable(Yukon_G23 src/main.c)
