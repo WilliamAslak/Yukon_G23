@@ -55,6 +55,18 @@ build CMakeFiles/Yukon_G23.dir/src/main.c.obj: C_COMPILER__Yukon_G23_Debug C$:/U
   OBJECT_DIR = CMakeFiles\Yukon_G23.dir
   OBJECT_FILE_DIR = CMakeFiles\Yukon_G23.dir\src
 
+build CMakeFiles/Yukon_G23.dir/src/logic/printer.c.obj: C_COMPILER__Yukon_G23_Debug C$:/Users/12345/CLionProjects/Yukon_G23/src/logic/printer.c || cmake_object_order_depends_target_Yukon_G23
+  DEP_FILE = CMakeFiles\Yukon_G23.dir\src\logic\printer.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Yukon_G23.dir
+  OBJECT_FILE_DIR = CMakeFiles\Yukon_G23.dir\src\logic
+
+build CMakeFiles/Yukon_G23.dir/src/models/Card.c.obj: C_COMPILER__Yukon_G23_Debug C$:/Users/12345/CLionProjects/Yukon_G23/src/models/Card.c || cmake_object_order_depends_target_Yukon_G23
+  DEP_FILE = CMakeFiles\Yukon_G23.dir\src\models\Card.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Yukon_G23.dir
+  OBJECT_FILE_DIR = CMakeFiles\Yukon_G23.dir\src\models
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Yukon_G23
@@ -63,7 +75,7 @@ build CMakeFiles/Yukon_G23.dir/src/main.c.obj: C_COMPILER__Yukon_G23_Debug C$:/U
 #############################################
 # Link the executable Yukon_G23.exe
 
-build Yukon_G23.exe: C_EXECUTABLE_LINKER__Yukon_G23_Debug CMakeFiles/Yukon_G23.dir/src/main.c.obj
+build Yukon_G23.exe: C_EXECUTABLE_LINKER__Yukon_G23_Debug CMakeFiles/Yukon_G23.dir/src/main.c.obj CMakeFiles/Yukon_G23.dir/src/logic/printer.c.obj CMakeFiles/Yukon_G23.dir/src/models/Card.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Yukon_G23.dir

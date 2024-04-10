@@ -1,0 +1,13 @@
+# ninja log v5
+2	72	7344563203057535	CMakeFiles/Yukon_G23.dir/src/models/Card.c.obj	efda719cd9185ea6
+1	160	7344566472025298	build.ninja	7bc6f60a1f82fa87
+2	78	7344563915477754	CMakeFiles/Yukon_G23.dir/src/main.c.obj	bc05850d4dce3c94
+78	182	7344563916497854	Yukon_G23.exe	c489b879682db42f
+2	106	7344560482373523	CMakeFiles/Yukon_G23.dir/src/printer.c.obj	b54dbacb2893c5e1
+1	155	7344566472025298	build.ninja	7bc6f60a1f82fa87
+5	89	7344566473525314	CMakeFiles/Yukon_G23.dir/src/models/Card.c.obj	efda719cd9185ea6
+8	91	7344566473545277	CMakeFiles/Yukon_G23.dir/src/logic/printer.c.obj	9544600c8d1248e2
+3	79	7344566780562461	CMakeFiles/Yukon_G23.dir/src/main.c.obj	bc05850d4dce3c94
+88	180	7344566781538008	Yukon_G23.exe	9182e0f6c0ab96a5
+2	70	7344566858071508	CMakeFiles/Yukon_G23.dir/src/main.c.obj	bc05850d4dce3c94
+70	162	7344566858961155	Yukon_G23.exe	9182e0f6c0ab96a5
