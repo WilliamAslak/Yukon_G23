@@ -1,0 +1,3 @@
+C:/Users/12345/CLionProjects/Yukon_G23/cmake-build-debug/CMakeFiles/Yukon_G23.dir
+C:/Users/12345/CLionProjects/Yukon_G23/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/12345/CLionProjects/Yukon_G23/cmake-build-debug/CMakeFiles/rebuild_cache.dir
